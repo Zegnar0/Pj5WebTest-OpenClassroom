@@ -291,4 +291,8 @@ footer h1{
         text-align: center;
     }
 
+    #listes_amis{
+    display: none;
+}
+
 }
